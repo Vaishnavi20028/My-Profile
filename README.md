@@ -28,7 +28,8 @@ I'm passionate about Data Analytics, business intelligence, and transforming dat
 
 ## 📚 Certifications
 
-- Add your completed certifications here.
+- Microsoft Excel: Beginner to Advanced + AI Udemy
+- Power BI. Business Intelligence for Beginners, to Advance Udemy
 
 ## 🎯 Currently Learning
 
