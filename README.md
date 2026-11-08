@@ -39,7 +39,7 @@ I'm passionate about Data Analytics, business intelligence, and transforming dat
 - Data Analytics
 
 ## 📫 Connect With Me
-
+linkedin.com/in/vaishnavi-mokhashi-3b0920275
 - GitHub: https://github.com/Vaishnavi20028
 - LinkedIn: Add your LinkedIn profile link here.
 
