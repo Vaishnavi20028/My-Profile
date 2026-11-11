@@ -26,6 +26,15 @@ I'm passionate about Data Analytics, business intelligence, and transforming dat
 
 🔗 [View Project](https://github.com/Vaishnavi20028/Sales-Performance-Dashboard)
 
+### 2. Financial Dashboard
+
+- Developed an interactive Financial Dashboard using Power BI.
+- Analyzed total sales, gross sales, profitability, and units sold.
+- Visualized sales performance by country, month, product, and business segment.
+- Created KPI cards, interactive slicers, and financial performance charts.
+
+🔗 [View Project](https://github.com/Vaishnavi20028/Financial-Dashboard)
+
 ## 📚 Certifications
 
 - Microsoft Excel: Beginner to Advanced + AI Udemy
