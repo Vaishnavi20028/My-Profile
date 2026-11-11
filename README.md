@@ -40,17 +40,6 @@ I'm passionate about Data Analytics, business intelligence, and transforming dat
 - Microsoft Excel: Beginner to Advanced + AI Udemy
 - Power BI. Business Intelligence for Beginners, to Advance Udemy
 
-## 💻 Technical Skills
-
-- Advanced Microsoft Excel
-- SQL
-- Power BI
-- Data Analytics
-- Data Visualization
-- MIS Reporting
-- Financial Analysis
-- Dashboard Development
-
 ## 📫 Connect With Me
 
 - GitHub: https://github.com/Vaishnavi20028
